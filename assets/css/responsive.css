@@ -1,0 +1,20 @@
+@media only screen and (max-width:768px) {
+  .about img{
+    display: none;
+  }
+}
+@media only screen and (min-width:768px) {
+  .card-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+   .card{
+     width: 28% !important;
+     height: 35rem !important;
+     
+   } 
+  .about{
+    width: 97%;
+  }
+}
