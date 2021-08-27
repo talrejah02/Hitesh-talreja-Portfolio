@@ -4,5 +4,5 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="720px" height="640px" viewBox="0 0 720 640" enable-background="new 0 0 720 640" xml:space="preserve">
 <rect fill="#FFC64A" stroke="#000000" stroke-miterlimit="10" width="720" height="640"/>
-<text transform="matrix(1 0 0 1 119.1741 281.0865)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="131">Dummy </tspan><tspan x="0" y="157.2" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="131">Blog</tspan></text>
+<text transform="matrix(1 0 0 1 119.1741 281.0865)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="131">React </tspan><tspan x="0" y="157.2" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="131">Hooks</tspan></text>
 </svg>
